@@ -1,4 +1,4 @@
-# pegasus-custom-collection-editor
+# Pegasus Custom Collection Editor
 
 Pegasus Custom Collection Editor is a graphical tool built with PyQt5 that allows users to create and manage custom collections for [Pegasus Frontend](https://pegasus-frontend.org/). It simplifies the process of selecting, filtering, and organizing games from different `metadata.pegasus.txt` files into a new custom collection.
 
