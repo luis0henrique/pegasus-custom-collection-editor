@@ -25,7 +25,7 @@ Pegasus Custom Collection Editor is a graphical tool built with PyQt5 that allow
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/pegasus-collection-editor.git
+   git clone https://github.com/luis0henrique/pegasus-custom-collection-editor.git
    cd pegasus-collection-editor
    ```
 2. Install dependencies:
