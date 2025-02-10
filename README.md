@@ -12,6 +12,7 @@ Pegasus Custom Collection Editor is a graphical tool built with PyQt5 that allow
 ## Screenshots
 
 ![screenshot](collection1.png)
+![screenshot](collection2.png)
 
 ## Installation
 
